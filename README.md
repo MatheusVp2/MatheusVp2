@@ -10,7 +10,7 @@
     <li>🔭 Atualmente estou trabalhando como Desenvolvedor Pleno de Projetos e Integrações.</li>
     <li>🤔 Procuro sempre estudar as novas tecnologias do mercado.</li>
     <li>🤔 Procuro sempre estudar as novas tecnologias do mercado.</li>
-    <li>💬 Ganhando bastante experiencia, com os novos projetos desenvolvidos na empresas, utilizando tecnologias de DevOps.</li>
+    <li>💬 Ganhando bastante experiencia, com os novos projetos desenvolvidos na empresa, utilizando tecnologias de DevOps.</li>
     <li>🌱 Gosto de trabalhar em equipe e ajudar as pessoas.</li>
   </ul>
 </p>
