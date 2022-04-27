@@ -1,5 +1,6 @@
-![](https://komarev.com/ghpvc/?username=MatheusVp2&color=006bed)
-
+<!-- 
+  ![](https://komarev.com/ghpvc/?username=MatheusVp2&color=006bed) 
+-->
 
 ### Olá, sou Matheus Oliveira 👋
 
