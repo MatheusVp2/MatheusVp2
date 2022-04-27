@@ -84,3 +84,17 @@
     <code><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="instagram"  width="80" height="22"/></code>
   </a>
 </p>
+
+<br />
+<br />
+
+---
+
+### 📊 GitHub Status
+
+![Matheus Git Status](https://github-readme-stats.vercel.app/api?username=MatheusVp2&theme=nord&show_icons=true&count_private=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusVp2&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusVp2&theme=nord_dark)
+
+![Matheus Git Atividade Grafico](https://activity-graph.herokuapp.com/graph?username=MatheusVp2&theme=github)
