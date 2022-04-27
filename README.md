@@ -97,5 +97,3 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusVp2&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusVp2&theme=nord_dark)
-
-![Matheus Git Atividade Grafico](https://activity-graph.herokuapp.com/graph?username=MatheusVp2&theme=github)
